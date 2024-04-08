@@ -1,1 +1,1 @@
-# tup_prog_1_2024_guia2.1
+# Guía 2.1. Estructuras condicionales (Guía extendida)
